@@ -1,0 +1,2 @@
+Essai de GIT pour récupérer un fichier distant
+C'est tout!
