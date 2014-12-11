@@ -3,4 +3,5 @@ C'est tout!
 Enfin presque puisque j'ai ajouté une ligne...
 Je refais une modif sur le site distant pour bien voir comment le répertorier sur mon répertoire de travail.
 (git fetch;git merge FETCH_HEAD)
+Une de plus pour voir si le "git fetch origin" fonctionne
 Et maintenant je le fait depuis le dépôt local
