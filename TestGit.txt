@@ -4,4 +4,6 @@ Enfin presque puisque j'ai ajouté une ligne...
 Je refais une modif sur le site distant pour bien voir comment le répertorier sur mon répertoire de travail.
 (git fetch;git merge FETCH_HEAD)
 Une de plus pour voir si le "git fetch origin" fonctionne
+En fait non. il faut bien faire un "git fetch" puis "git merge FETCH_HEAD" pour
+que les mofif sur le dépôt distant soient prises en compte en local.
 Et maintenant je le fait depuis le dépôt local
