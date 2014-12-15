@@ -11,4 +11,5 @@ Bon maintenant on va faire un essai avec l'install "système" de git.
 On le fait du repository distant. (correction d'un "i" en "o")
 Voyons voir maintenant la gestion des conflits.
 Il vient d'être résolu.
-On va voir si "git merge-file" fonctionne...
+On va en déclencher un autre et utiliser "git merge-files".
+Apparament il faut changer d'un cote et faire le "git commit" ensuite.
