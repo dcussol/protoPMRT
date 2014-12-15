@@ -8,3 +8,4 @@ En fait non. il faut bien faire un "git fetch" puis "git merge FETCH_HEAD" pour
 que les mofif sur le dépôt distant soient prises en compte en local.
 Et maintenant je le fait depuis le dépôt local
 Bon maintenant on va faire un essai avec l'install "système" de git.
+On le fait du repositiry distant.
