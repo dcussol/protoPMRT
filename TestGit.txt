@@ -9,3 +9,4 @@ que les mofif sur le dépôt distant soient prises en compte en local.
 Et maintenant je le fait depuis le dépôt local
 Bon maintenant on va faire un essai avec l'install "système" de git.
 On le fait du repository distant. (correction d'un "i" en "o")
+Voyons voir maintenant la gestion des conflits.
