@@ -1,2 +1,3 @@
 Essai d'ajout d'une nouvelle branche et d'un nouveau fichier dans cette branche.
 Je modifie ce fichier sur la branche "MyNewBranch".
+Et je remodifie sur "MyNewBranch".
