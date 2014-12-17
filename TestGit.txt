@@ -16,3 +16,5 @@ Apparament il faut changer d'un cote et faire le "git commit" ensuite.
 Je modifie ce fichier sur la branche "master".
 Je suis repassé sur la branche master et je continue les modifs sur cette
 branche.
+Je continue les modifs sur master.
+
