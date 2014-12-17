@@ -14,3 +14,5 @@ Il vient d'être résolu.
 On va en déclencher un autre et utiliser "git merge-files".
 Apparament il faut changer d'un cote et faire le "git commit" ensuite.
 Je modifie ce fichier sur la branche "master".
+Je suis repassé sur la branche master et je continue les modifs sur cette
+branche.
