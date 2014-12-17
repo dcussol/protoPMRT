@@ -1,3 +1,4 @@
 Essai d'ajout d'une nouvelle branche et d'un nouveau fichier dans cette branche.
 Je modifie ce fichier sur la branche "MyNewBranch".
-Bon là on est sur la branche "AnotherAnotherBranch"
+Bon là on est sur la branche "AnotherAnotherBranch". Et je continue les modifs
+dessus.
