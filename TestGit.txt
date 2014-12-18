@@ -16,3 +16,4 @@ Apparament il faut changer d'un cote et faire le "git commit" ensuite.
 Version "MyNewBranch" de ce fichier.
 Je modifie ce fichier sur la branche "master".
 Le conflit sur "MyNewBranch" est résolu.
+Re Modif sur MyNewBranch
